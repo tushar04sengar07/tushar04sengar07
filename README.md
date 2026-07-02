@@ -244,6 +244,9 @@ I'm actively looking for opportunities to collaborate on:
 
 ---
 
+---
+© 2026 Tushar Sengar. All rights reserved. 
+This profile README configuration, customized layout design, and written content are personal properties. 
 <div align="center">
 
 ## ⭐ Thanks for visiting my profile!
