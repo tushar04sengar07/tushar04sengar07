@@ -1,46 +1,89 @@
-<h1 align="center">Hi 👋, I'm Tushar Sengar</h1>
+<div align="center">
 
-<h3 align="center">AI-Integrated Backend Engineer | B.Tech CSE Student | Backend Development Enthusiast</h3>
+# Hi 👋, I'm Tushar Sengar
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI-Integrated+Backend+Engineer;Backend+Development+Enthusiast;B.Tech+CSE+Student;Open+Source+Learner;Always+Learning+New+Technologies" />
+### AI-Integrated Backend Engineer | B.Tech CSE Student | Backend Development Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI-Integrated+Backend+Engineer;Backend+Development+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Technologies;Open+Source+Learner" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a **B.Tech Computer Science & Engineering** student at **Dronacharya College of Engineering** passionate about building scalable backend systems and integrating Artificial Intelligence into real-world applications.
+
+I enjoy solving challenging problems, learning modern technologies, and developing projects that improve my software engineering skills.
+
+My long-term vision is to become an **AI-Integrated Backend Engineer** capable of designing secure, scalable, and intelligent systems used by millions of users.
+
+---
+
+## 🎯 Current Focus
+
+- 🔹 Backend Development
+- 🔹 Artificial Intelligence
+- 🔹 Data Structures & Algorithms
+- 🔹 Open Source Contributions
+- 🔹 Building Real-World Projects
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs" />
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
 </p>
 
 ---
 
-# 💫 About Me
+## 🌐 Connect With Me
 
-🎓 **B.Tech (Computer Science & Engineering)**  
-🏫 Dronacharya College of Engineering
-
-💻 Passionate about designing scalable backend systems and integrating Artificial Intelligence to solve real-world problems.
-
-🚀 Currently learning **Backend Development** while continuously improving my problem-solving skills through **Data Structures & Algorithms**.
-
-🌱 My long-term goal is to become an **AI-Integrated Backend Engineer** and contribute to impactful software products used by millions.
-
----
-
-# 🚀 Current Focus
-
-- 🤖 Becoming an AI-Integrated Backend Engineer
-- 💻 Mastering Backend Development
-- 🧩 Improving DSA & Problem Solving
-- 🌍 Contributing to Open Source
-- 🚀 Building Real World Projects
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/tushar-sengar-99bb25324" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<p align="left">
 
 <a href="mailto:tusharsengar808@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/tushar-sengar-99bb25324">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/tushar04sengar07">
@@ -51,387 +94,315 @@
 
 ---
 
-# 💻 Tech Stack
+# 📊 GitHub Analytics
 
-## 👨‍💻 Languages
+<div align="center">
 
-<p>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=tushar04sengar07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img src="https://skillicons.dev/icons?i=c" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar04sengar07&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://skillicons.dev/icons?i=cpp" />
+</div>
 
-<img src="https://skillicons.dev/icons?i=java" />
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=tushar04sengar07&theme=tokyonight&hide_border=true"/>
 
-<img src="https://skillicons.dev/icons?i=javascript" />
-
-</p>
+</div>
 
 ---
 
-## 🌐 Frontend
+# 📈 Contribution Activity
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=html" />
-
-<img src="https://skillicons.dev/icons?i=css" />
-
-<img src="https://skillicons.dev/icons?i=react" />
-
-</p>
-
----
-
-## ⚙️ Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs" />
-
-</p>
-
----
-
-## 🗄 Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-</p>
-
----
-
-## 🛠 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git" />
-
-<img src="https://skillicons.dev/icons?i=github" />
-
-<img src="https://skillicons.dev/icons?i=vscode" />
-
-</p>
-
----
-
-# ❤️ Interests
-
-- 🤖 Artificial Intelligence
-- 💻 Backend Development
-- 🌍 Open Source
-- 🌐 Web Development
-- 🧩 Data Structures & Algorithms
-- 🚀 Building Real-World Projects
-- 📚 Learning New Technologies
-
----
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tushar04sengar07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar04sengar07&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar04sengar07&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar04sengar07&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tushar04sengar07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=tushar04sengar07&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 
-</p>
-
----
-
-# 🚀 2026 Goals
-
-```text
-✅ Become an AI-Integrated Backend Engineer
-
-✅ Master Backend Development
-
-⬜ Learn Express.js
-
-⬜ Learn MongoDB
-
-⬜ Build 10+ Full Stack Projects
-
-⬜ Solve 500+ DSA Problems
-
-⬜ Complete 100 Days of Code
-
-⬜ Contribute to Open Source
-
-⬜ Crack a Software Engineering Internship
-```
+</div>
 
 ---
 
-# 📚 Currently Learning
+# 🌱 Currently Learning
 
-<p align="center">
+<table>
 
-<img src="https://img.shields.io/badge/Backend%20Development-0A66C2?style=for-the-badge"/>
+<tr>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<td>
 
-<img src="https://img.shields.io/badge/Problem%20Solving-FF9800?style=for-the-badge"/>
+✅ Backend Development
 
-<img src="https://img.shields.io/badge/AI%20Journey-8A2BE2?style=for-the-badge"/>
+</td>
 
-</p>
+<td>
+
+✅ Node.js
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+🟡 Express.js
+
+</td>
+
+<td>
+
+🟡 REST APIs
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+🟡 MongoDB
+
+</td>
+
+<td>
+
+🟡 System Design
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+🟡 Artificial Intelligence
+
+</td>
+
+<td>
+
+🟡 Machine Learning
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 💡 Fun Fact
+# 🎯 2026 Goals
 
-```text
-I believe consistency beats intensity.
-
-Every day I aim to become 1% better than yesterday.
-
-My goal is to build scalable backend systems integrated with AI
-that solve real-world problems.
-```
+- 🚀 Become an AI-Integrated Backend Engineer
+- 💻 Master Backend Development
+- 🧩 Solve 500+ DSA Problems
+- 🌍 Contribute to Open Source
+- ☁️ Learn Cloud Technologies
+- 🤖 Build AI-Powered Backend Applications
+- 💼 Secure a Software Engineering Internship
 
 ---
 
-# 👀 Profile Views
+# 💡 What I'm Working On
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=tushar04sengar07&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
+- 🚀 Improving backend development skills.
+- 📚 Strengthening Data Structures & Algorithms.
+- 🤖 Learning how AI can be integrated into backend systems.
+- 🌐 Building production-ready projects.
+- 💻 Growing my GitHub portfolio consistently.
 
 ---
 # 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
 
-### 🚗 ParkPrabandh
+<td width="50%" valign="top">
 
-An AI-powered smart parking management system designed to improve parking efficiency using modern web technologies.
+## 🚗 ParkPrabandh
+
+### AI-Powered Smart Parking Management System
+
+A modern parking management platform designed to streamline parking operations with a user-friendly interface and scalable backend architecture.
+
+### Key Features
+
+- Smart Parking Management
+- Responsive UI
+- Secure Authentication
+- Database Integration
+- Scalable Architecture
 
 ### Tech Stack
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Node.js
-- MySQL
+`HTML` `CSS` `JavaScript` `React` `Node.js` `MySQL`
 
-🔗 **Repository**
-https://github.com/tushar04sengar07/ParkPrabandh
+<a href="https://github.com/tushar04sengar07/ParkPrabandh">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💼 Quantium Software Engineering Virtual Experience
+## 💼 Quantium Software Engineering Virtual Experience
 
-Completed the Quantium Software Engineering Job Simulation, working on practical tasks involving data analytics and software engineering concepts.
+Completed Quantium's Software Engineering Job Simulation by solving real-world business problems using Python and data analysis techniques.
+
+### Highlights
+
+- Data Cleaning
+- Data Visualization
+- Business Insights
+- Python Programming
+- Problem Solving
 
 ### Skills
 
-- Data Analysis
-- Python
-- Problem Solving
-- Software Engineering
+`Python`
+`Data Analysis`
+`Software Engineering`
 
-🔗 **Repository**
-
-https://github.com/tushar04sengar07/Quantium-Software-Engineering-Virtual-Experience
+<a href="https://github.com/tushar04sengar07/Quantium-Software-Engineering-Virtual-Experience">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 📂 More Projects Coming Soon...
+# 📂 Upcoming Projects
 
-I'm actively building projects in:
+I'm currently working on projects in the following domains:
 
-🚀 Backend Development
+- 🤖 AI-Powered Backend Systems
+- 🌐 Full Stack Web Applications
+- 📊 Data Analytics
+- 🧠 Machine Learning
+- ☁️ Cloud-Based Applications
 
-🤖 Artificial Intelligence
-
-🌐 Full Stack Web Development
-
-☁️ Cloud Computing
-
-Stay tuned!
+Stay tuned for more exciting repositories!
 
 ---
 
 # 💻 Coding Profiles
 
-<p align="center">
+<div align="center">
 
 <a href="#">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-Solving%20DSA-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding-green?style=for-the-badge&logo=geeksforgeeks"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-Problem%20Solver-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/HackerRank-Programming-brightgreen?style=for-the-badge&logo=hackerrank"/>
+<img src="https://img.shields.io/badge/HackerRank-Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-</p>
+</div>
+
+> **Replace the `#` in the links above with your actual LeetCode, GeeksforGeeks, and HackerRank profile URLs.**
+
+---
+
+# 🏅 Skills Snapshot
+
+| Category | Skills |
+|----------|--------|
+| Languages | C, C++, Java, Python, JavaScript |
+| Frontend | HTML, CSS, React |
+| Backend | Node.js |
+| Database | MySQL |
+| Version Control | Git, GitHub |
+| IDE | VS Code |
 
 ---
 
 # 📜 Certifications
 
-🏅 Quantium Software Engineering Virtual Experience Program
-
-🏅 More certifications coming soon...
-
----
-
-# 🏅 Achievements
-
-⭐ Git & GitHub Learner
-
-⭐ Backend Development Enthusiast
-
-⭐ AI Learning Journey
-
-⭐ Active Problem Solver
+- ✅ Quantium Software Engineering Virtual Experience (Forage)
+- 🔜 More certifications coming soon...
 
 ---
 
-# 🤝 Let's Connect
+# 📫 Let's Connect
 
-I'm always open to collaborating on interesting projects, open-source contributions, and learning opportunities.
+I'm always open to collaborating on interesting projects, discussing technology, or connecting with fellow developers.
 
-Feel free to reach out!
+📧 **Email:** `tusharsengar808@gmail.com`
 
-📧 Email:
+💼 **LinkedIn:**  
+https://linkedin.com/in/tushar-sengar-99bb25324
 
-**tusharsengar808@gmail.com**
+🐙 **GitHub:**  
+https://github.com/tushar04sengar07
 
-💼 LinkedIn
+---
+---
 
-linkedin.com/in/tushar-sengar-99bb25324
+# 📊 Profile Visitors
 
-🐙 GitHub
+<div align="center">
 
-github.com/tushar04sengar07
+![](https://komarev.com/ghpvc/?username=tushar04sengar07&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
+</div>
 
 ---
 
-# 💬 Quote I Live By
+# 📈 GitHub Contribution Snake
 
-> "Success doesn't come from what you do occasionally, it comes from what you do consistently."
+> **This animation works after enabling GitHub Actions.**
 
----
-# 🐍 Contribution Snake
+<div align="center">
 
-> **This animation will start working after you set up GitHub Actions.**
+![Snake animation](https://raw.githubusercontent.com/tushar04sengar07/tushar04sengar07/output/github-contribution-grid-snake-dark.svg)
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/tushar04sengar07/tushar04sengar07/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
-</p>
+</div>
 
 ---
 
-# 📈 GitHub Contribution Calendar
+# 🤝 Open to Opportunities
 
-<p align="center">
+I'm actively looking for opportunities to collaborate on:
 
-<img src="https://ghchart.rshah.org/58a6ff/tushar04sengar07" />
+- 🚀 Backend Development
+- 🤖 AI-Powered Applications
+- 🌐 Full Stack Web Development
+- 🌍 Open Source Projects
 
-</p>
-
----
-
-# ⭐ Support My Work
-
-If you like my projects or find them useful, consider giving them a ⭐.
-
-It motivates me to build even better projects.
+If you have an interesting idea or project, feel free to connect with me.
 
 ---
 
-# 💻 Development Philosophy
+<div align="center">
 
-```text
-✔ Keep Learning
+## ⭐ Thanks for visiting my profile!
 
-✔ Keep Building
+### "Building today for the technology of tomorrow."
 
-✔ Keep Improving
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1f6feb,100:58a6ff&section=footer"/>
 
-✔ Never Stop Exploring
+</div>
 
-✔ Code with Purpose
-```
 
----
 
-# 📌 Currently Exploring
 
-🤖 Artificial Intelligence
-
-⚙ Backend Development
-
-🌐 Modern Web Technologies
-
-🧠 Data Structures & Algorithms
-
-☁ Cloud Technologies
-
----
-
-# 🎯 Long-Term Vision
-
-To become a highly skilled AI-Integrated Backend Engineer capable of building scalable, secure, and intelligent software systems that create real-world impact.
-
----
-
-# ❤️ Thanks for Visiting My Profile!
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
-
-</p>
