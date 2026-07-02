@@ -82,13 +82,6 @@ My long-term vision is to become an **AI-Integrated Backend Engineer** capable o
 # 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.mirrors.smarterasp.net/api?username=tushar04sengar07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170em" src="https://github-readme-stats.mirrors.smarterasp.net/api/top-langs/?username=tushar04sengar07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=tushar04sengar07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
