@@ -57,4 +57,205 @@ My long-term vision is to become an **AI-Integrated Backend Engineer** capable o
 ### 🛠️ Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:tusharsengar808@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/tushar-sengar-99bb25324" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/tushar04sengar07" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.mirrors.smarterasp.net/api?username=tushar04sengar07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.mirrors.smarterasp.net/api/top-langs/?username=tushar04sengar07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=tushar04sengar07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=tushar04sengar07&theme=tokyo-night&hide_border=true" alt="Contribution Activity" />
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+<table>
+<tr>
+<td>🚀 Backend Development</td>
+<td>🟢 Learning (Node.js)</td>
+</tr>
+<tr>
+<td>⚡ Express.js & REST APIs</td>
+<td>🟡 Next Up</td>
+</tr>
+<tr>
+<td>🍃 MongoDB & System Design</td>
+<td>Planned</td>
+</tr>
+<tr>
+<td>🤖 AI & Machine Learning Integration</td>
+<td>🟢 Core Focus</td>
+</tr>
+</table>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Become an AI-Integrated Backend Engineer
+- 💻 Master Backend Development
+- 🧩 Solve 500+ DSA Problems
+- 🌍 Contribute to Open Source
+- ☁️ Learn Cloud Technologies
+- 🤖 Build AI-Powered Backend Applications
+- 💼 Secure a Software Engineering Internship
+
+---
+
+# 💡 What I'm Working On
+
+- 🚀 Improving backend development skills.
+- 📚 Strengthening Data Structures & Algorithms.
+- 🤖 Learning how AI can be integrated into backend systems.
+- 🌐 Building production-ready projects.
+- 💻 Growing my GitHub portfolio consistently.
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🚗 ParkPrabandh
+### AI-Powered Smart Parking Management System
+A modern parking management platform designed to streamline parking operations with a user-friendly interface and scalable backend architecture.
+
+### Key Features
+- Smart Parking Management
+- Responsive UI
+- Secure Authentication
+- Database Integration
+
+### Tech Stack
+`React` `Node.js` `MySQL` `JavaScript` `HTML` `CSS`
+
+<br>
+<a href="https://github.com/tushar04sengar07/ParkPrabandh" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+## 💼 Quantium Experience
+### Software Engineering Job Simulation
+Completed Quantium's Software Engineering Job Simulation by solving real-world business problems using Python and data analysis techniques.
+
+### Highlights
+- Data Cleaning
+- Data Visualization
+- Commercial Business Insights
+- Problem Solving
+
+### Tech Stack
+`Python` `Data Analysis` `Software Engineering`
+
+<br><br>
+<a href="https://github.com/tushar04sengar07/Quantium-Software-Engineering-Virtual-Experience" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📂 Upcoming Projects
+
+I'm currently working on projects in the following domains:
+- 🤖 AI-Powered Backend Systems
+- 🌐 Full Stack Web Applications
+- 📊 Data Analytics
+- ☁️ Cloud-Based Applications
+
+---
+
+# 💻 Coding Profiles
+
+<div align="center">
+  <a href="https://leetcode.com/u/tushar_sengar/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Solving%20DSA-orange?style=for-the-badge&logo=leetcode"/>
+  </a>
+  &nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/tsengarza7x" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Problem%20Solver-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/tusharsengar808" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+# 📜 Certifications
+
+- ✅ Quantium Software Engineering Virtual Experience (Forage)
+- 🔜 More certifications coming soon...
+
+---
+
+# 📊 Profile Visitors
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tushar04sengar07&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
+
+---
+
+# 🤝 Open to Opportunities
+
+I'm actively looking for opportunities to collaborate on:
+- 🚀 Backend Development
+- 🤖 AI-Powered Applications
+- 🌐 Full Stack Web Development
+- 🌍 Open Source Projects
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+### "Building today for the technology of tomorrow."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1f6feb,100:58a6ff&section=footer"/>
+
+</div>
