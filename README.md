@@ -214,6 +214,9 @@ I'm currently working on projects in the following domains:
 # 📜 Certifications
 
 - ✅ Quantium Software Engineering Virtual Experience (Forage)
+- ✅ 1st position : Hackathon Winner organised by GDsc
+- ✅ Deloitte Data Virtual Experince (Forage)
+- ✅ 3 months Data Science Virtual Internship (YHills) 
 - 🔜 More certifications coming soon...
 
 ---
