@@ -79,14 +79,6 @@ My long-term vision is to become an **AI-Integrated Backend Engineer** capable o
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=tushar04sengar07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 # 📈 Contribution Activity
 
 <div align="center">
